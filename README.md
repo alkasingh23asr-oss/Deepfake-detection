@@ -31,6 +31,7 @@ Should you encounter any challenges or have inquiries, please feel free to open 
 
 
 ## Developers
-1. [Noopur Sharma]
-2. [Vartika Singh]
-3. [Vivashwat Takur](https://github.com/vivdto)
+1. [Alka Kumari Singh]
+2. [Neha kumari]
+3. [Gautam kumar paswan]
+4. [Priyanshu]
